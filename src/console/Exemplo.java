@@ -10,5 +10,8 @@ package console;
  * @author Visitante7
  */
 public class Exemplo {
-    
+     public static void main(String[] args) {
+    System.out.println("ola mundo");
+    System.exit (0);
+     }
 }
